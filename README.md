@@ -58,7 +58,7 @@ REDIS_PORT=6379
 ### 3. Installation
 ```bash
 # Clone the repository
-git clone https://github.com
+git clone https://github.com/hydra-messager-admin/hydra-messager.git
 cd hydra-messager
 
 # Set up virtual environment
